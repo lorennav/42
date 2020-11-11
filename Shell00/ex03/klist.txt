@@ -1,0 +1,5 @@
+Credentials cache: API:E1C5271A-EFAC-4833-9443-0DBF287DDD94
+        Principal: lvieira@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 21 14:09:30 2020  Oct 22 00:09:30 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
